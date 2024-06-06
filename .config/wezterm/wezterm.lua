@@ -82,8 +82,8 @@ config.color_scheme = scheme
 config.font = wezterm.font("iMWritingMono Nerd Font")
 config.font_size = 15
 
--- config.window_decorations = "RESIZE"
-config.window_background_opacity = 1
+config.window_decorations = "RESIZE"
+config.window_background_opacity = 0.85
 config.window_padding = {
 	left = 10,
 	right = 10,
